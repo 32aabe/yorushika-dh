@@ -1,0 +1,1282 @@
+[
+  {
+    "source": "僕",
+    "target": "君",
+    "sharedSongCount": 12,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta",
+      "amy",
+      "gogatsu-hanarokushou",
+      "八月",
+      "某",
+      "月明かり",
+      "夕凪",
+      "某",
+      "花惑い",
+      "kokoro-ni-ana-ga-aita",
+      "aruku",
+      "kamisama-no-dance",
+      "ai-nijou",
+      "odorou-ze",
+      "ame-to-cappuccino",
+      "ame-haruru"
+    ],
+    "weight": 12
+  },
+  {
+    "source": "わかる",
+    "target": "君",
+    "sharedSongCount": 7,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta",
+      "elma",
+      "parade",
+      "八月",
+      "某",
+      "月明かり",
+      "yoru-magai",
+      "shikaki-to-coffee",
+      "ame-to-cappuccino"
+    ],
+    "weight": 7
+  },
+  {
+    "source": "君",
+    "target": "言葉",
+    "sharedSongCount": 6,
+    "sharedSongs": [
+      "elma",
+      "rokugatsu-amaagari",
+      "kokoro-ni-ana-ga-aita",
+      "aruku",
+      "ame-to-cappuccino",
+      "ame-haruru"
+    ],
+    "weight": 6
+  },
+  {
+    "source": "君",
+    "target": "夏",
+    "sharedSongCount": 5,
+    "sharedSongs": [
+      "amy",
+      "gogatsu-hanarokushou",
+      "rokugatsu-amaagari",
+      "夕凪",
+      "某",
+      "花惑い",
+      "ame-haruru"
+    ],
+    "weight": 5
+  },
+  {
+    "source": "人生",
+    "target": "君",
+    "sharedSongCount": 4,
+    "sharedSongs": [
+      "amy",
+      "八月",
+      "某",
+      "月明かり",
+      "yoru-magai",
+      "ai-nijou"
+    ],
+    "weight": 4
+  },
+  {
+    "source": "僕",
+    "target": "夏",
+    "sharedSongCount": 4,
+    "sharedSongs": [
+      "amy",
+      "gogatsu-hanarokushou",
+      "夕凪",
+      "某",
+      "花惑い",
+      "ame-haruru"
+    ],
+    "weight": 4
+  },
+  {
+    "source": "僕",
+    "target": "言葉",
+    "sharedSongCount": 4,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita",
+      "aruku",
+      "ame-to-cappuccino",
+      "ame-haruru"
+    ],
+    "weight": 4
+  },
+  {
+    "source": "君",
+    "target": "心",
+    "sharedSongCount": 4,
+    "sharedSongs": [
+      "rokugatsu-amaagari",
+      "yoru-magai",
+      "kokoro-ni-ana-ga-aita",
+      "kamisama-no-dance"
+    ],
+    "weight": 4
+  },
+  {
+    "source": "わかる",
+    "target": "僕",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta",
+      "八月",
+      "某",
+      "月明かり",
+      "ame-to-cappuccino"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "わかる",
+    "target": "言葉",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "elma",
+      "koe",
+      "ame-to-cappuccino"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "人生",
+    "target": "僕",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "amy",
+      "八月",
+      "某",
+      "月明かり",
+      "ai-nijou"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "僕",
+    "target": "知る",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "aruku",
+      "kamisama-no-dance",
+      "odorou-ze"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "僕",
+    "target": "花",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "gogatsu-hanarokushou",
+      "ai-nijou",
+      "ame-to-cappuccino"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "君",
+    "target": "夜",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "elma",
+      "nautilus",
+      "ai-nijou"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "君",
+    "target": "忘れる",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "amy",
+      "parade",
+      "shikaki-to-coffee"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "君",
+    "target": "知る",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "aruku",
+      "kamisama-no-dance",
+      "odorou-ze"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "君",
+    "target": "花",
+    "sharedSongCount": 3,
+    "sharedSongs": [
+      "gogatsu-hanarokushou",
+      "ai-nijou",
+      "ame-to-cappuccino"
+    ],
+    "weight": 3
+  },
+  {
+    "source": "わかる",
+    "target": "人生",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "八月",
+      "某",
+      "月明かり",
+      "yoru-magai"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "わかる",
+    "target": "忘れる",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "parade",
+      "shikaki-to-coffee"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "わかる",
+    "target": "思い出",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "parade",
+      "shikaki-to-coffee"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "僕",
+    "target": "心",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita",
+      "kamisama-no-dance"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "僕",
+    "target": "愛",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta",
+      "ame-haruru"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "思い出",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "parade",
+      "shikaki-to-coffee"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "愛",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta",
+      "ame-haruru"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "歌",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "parade",
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "目",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "nautilus",
+      "shikaki-to-coffee"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "見る",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "nautilus",
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "君",
+    "target": "顔",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "nautilus",
+      "kamisama-no-dance"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "夏",
+    "target": "言葉",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "rokugatsu-amaagari",
+      "ame-haruru"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "心",
+    "target": "言葉",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "rokugatsu-amaagari",
+      "kokoro-ni-ana-ga-aita"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "忘れる",
+    "target": "思い出",
+    "sharedSongCount": 2,
+    "sharedSongs": [
+      "parade",
+      "shikaki-to-coffee"
+    ],
+    "weight": 2
+  },
+  {
+    "source": "あんた",
+    "target": "わかる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "あんた",
+    "target": "僕",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "あんた",
+    "target": "君",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "あんた",
+    "target": "愛",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "喉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "夜",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "心",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "愛",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "dakara-boku-wa-ongaku-wo-yameta"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "最低",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "八月",
+      "某",
+      "月明かり"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "歌",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "parade"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "消す",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "痛い",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "目",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "shikaki-to-coffee"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "空",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "笑う",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "わかる",
+    "target": "花",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ame-to-cappuccino"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "夏",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "amy"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "夜",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ai-nijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "心",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "忘れる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "amy"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "最低",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "八月",
+      "某",
+      "月明かり"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "消す",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "人生",
+    "target": "花",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ai-nijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "夜",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ai-nijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "忘れる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "amy"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "最低",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "八月",
+      "某",
+      "月明かり"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "歌",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "歩く",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "aruku"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "消える",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "穴",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "見る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "音楽",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kamisama-no-dance"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "僕",
+    "target": "黙る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "gogatsu-hanarokushou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "底",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "最低",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "八月",
+      "某",
+      "月明かり"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "歩く",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "aruku"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "水圧",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "消える",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "消す",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "痛い",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "穴",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "街",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "rokugatsu-amaagari"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "逃げる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "透明",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "音楽",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "君",
+    "target": "黙る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "gogatsu-hanarokushou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "喉",
+    "target": "空",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "喉",
+    "target": "笑う",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "喉",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "心",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "rokugatsu-amaagari"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "忘れる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "amy"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "愛",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ame-haruru"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "歌",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "花",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "gogatsu-hanarokushou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "街",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "rokugatsu-amaagari"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "見る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夏",
+    "target": "黙る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "gogatsu-hanarokushou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "痛い",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "目",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "花",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ai-nijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "見る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "夜",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "底",
+    "target": "水圧",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "底",
+    "target": "逃げる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "底",
+    "target": "透明",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "心",
+    "target": "消す",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yoru-magai"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "心",
+    "target": "知る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kamisama-no-dance"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "心",
+    "target": "穴",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "心",
+    "target": "街",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "rokugatsu-amaagari"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "心",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kamisama-no-dance"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "忘れる",
+    "target": "歌",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "parade"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "忘れる",
+    "target": "目",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "shikaki-to-coffee"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "思い出",
+    "target": "歌",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "parade"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "思い出",
+    "target": "目",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "shikaki-to-coffee"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "愛",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ame-haruru"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "歌",
+    "target": "見る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "夕凪",
+      "某",
+      "花惑い"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "歩く",
+    "target": "知る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "aruku"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "歩く",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "aruku"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "水圧",
+    "target": "逃げる",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "水圧",
+    "target": "透明",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "消える",
+    "target": "知る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "消える",
+    "target": "音楽",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "痛い",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "elma"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "目",
+    "target": "見る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "目",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "知る",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "aruku"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "知る",
+    "target": "音楽",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "odorou-ze"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "知る",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kamisama-no-dance"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "穴",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "kokoro-ni-ana-ga-aita"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "空",
+    "target": "笑う",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "空",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "笑う",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "koe"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "花",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "ame-to-cappuccino"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "花",
+    "target": "黙る",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "gogatsu-hanarokushou"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "街",
+    "target": "言葉",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "rokugatsu-amaagari"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "見る",
+    "target": "顔",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "nautilus"
+    ],
+    "weight": 1
+  },
+  {
+    "source": "逃げる",
+    "target": "透明",
+    "sharedSongCount": 1,
+    "sharedSongs": [
+      "yuu-ichijou"
+    ],
+    "weight": 1
+  }
+]

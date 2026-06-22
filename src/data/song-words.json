@@ -1,0 +1,742 @@
+{
+  "dakara-boku-wa-ongaku-wo-yameta": [
+    {
+      "word": "わかる",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 7,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "あんた",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 2
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "君",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "愛",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 5
+    }
+  ],
+  "amy": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 6,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "人生",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 5,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "夏",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 11
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "忘れる",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 12
+    }
+  ],
+  "elma": [
+    {
+      "word": "夜",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 9
+    },
+    {
+      "word": "わかる",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "君",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "痛い",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 6
+    }
+  ],
+  "nautilus": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 7,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "見る",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 5,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "目",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 8
+    },
+    {
+      "word": "顔",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "夜",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 9
+    }
+  ],
+  "parade": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "忘れる",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 12
+    },
+    {
+      "word": "わかる",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "歌",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "思い出",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 10
+    }
+  ],
+  "gogatsu-hanarokushou": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "黙る",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 3
+    },
+    {
+      "word": "夏",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 11
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "花",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 9
+    }
+  ],
+  "hachigatsu-nanika-tsukiakari": [
+    {
+      "word": "最低",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 16,
+      "sharedSongCount": 2
+    },
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 9,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "人生",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "わかる",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    }
+  ],
+  "rokugatsu-amaagari": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "街",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 7
+    },
+    {
+      "word": "心",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 2,
+      "sharedSongCount": 14
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "夏",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 11
+    }
+  ],
+  "koe": [
+    {
+      "word": "わかる",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "言葉",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "笑う",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 9
+    },
+    {
+      "word": "喉",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 8
+    },
+    {
+      "word": "空",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 7
+    }
+  ],
+  "yuunagi-nanika-hanamadoi": [
+    {
+      "word": "僕",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 6,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "夏",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 11
+    },
+    {
+      "word": "君",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "歌",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "見る",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 10
+    }
+  ],
+  "yoru-magai": [
+    {
+      "word": "消す",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 6,
+      "sharedSongCount": 1
+    },
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "心",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 14
+    },
+    {
+      "word": "人生",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "わかる",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    }
+  ],
+  "kokoro-ni-ana-ga-aita": [
+    {
+      "word": "穴",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 12,
+      "sharedSongCount": 3
+    },
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 11,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "心",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 7,
+      "sharedSongCount": 14
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 13
+    }
+  ],
+  "yuu-ichijou": [
+    {
+      "word": "透明",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 3
+    },
+    {
+      "word": "水圧",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 1
+    },
+    {
+      "word": "君",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "逃げる",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 2
+    },
+    {
+      "word": "底",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 2
+    }
+  ],
+  "aruku": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "知る",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 2,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "歩く",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 8
+    }
+  ],
+  "kamisama-no-dance": [
+    {
+      "word": "僕",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 10,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "知る",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "君",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "顔",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 4,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "心",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 14
+    }
+  ],
+  "ai-nijou": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 7,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "人生",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "夜",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 9
+    },
+    {
+      "word": "花",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 9
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 20
+    }
+  ],
+  "shikaki-to-coffee": [
+    {
+      "word": "わかる",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 26,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 8,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "思い出",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 6,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "目",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 8
+    },
+    {
+      "word": "忘れる",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 12
+    }
+  ],
+  "odorou-ze": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "知る",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 10
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 2,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "消える",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 6
+    },
+    {
+      "word": "音楽",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 5
+    }
+  ],
+  "ame-to-cappuccino": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 5,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "花",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 5,
+      "sharedSongCount": 9
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 3,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "わかる",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 2,
+      "sharedSongCount": 13
+    }
+  ],
+  "ame-haruru": [
+    {
+      "word": "君",
+      "role": "signature",
+      "roleRank": 1,
+      "frequencyInSong": 12,
+      "sharedSongCount": 19
+    },
+    {
+      "word": "愛",
+      "role": "signature",
+      "roleRank": 2,
+      "frequencyInSong": 6,
+      "sharedSongCount": 5
+    },
+    {
+      "word": "言葉",
+      "role": "bridge",
+      "roleRank": 1,
+      "frequencyInSong": 4,
+      "sharedSongCount": 13
+    },
+    {
+      "word": "僕",
+      "role": "bridge",
+      "roleRank": 2,
+      "frequencyInSong": 3,
+      "sharedSongCount": 20
+    },
+    {
+      "word": "夏",
+      "role": "bridge",
+      "roleRank": 3,
+      "frequencyInSong": 3,
+      "sharedSongCount": 11
+    }
+  ]
+}

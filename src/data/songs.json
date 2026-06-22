@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "0831",
+    "album": "dakara",
+    "trackNo": 1,
+    "isInterlude": true,
+    "title": {
+      "jp": "8/31",
+      "kr": "8/31",
+      "en": "8/31"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: 最後に巻き戻して、「8/31」に戻ってくる。",
+      "en": "n-buna: At the end, it rewinds and returns to “8/31.”",
+      "kr": "n-buna: 마지막에 되감기듯, 다시 「8/31」로 돌아와요."
+    },
+    "source": "n-buna, interview by Nagahori Atsuo, Fanplus Music, 2019"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/uedeUGBvMjg?si=vZPtac0Z_VkGIh4i",
+    "mvThumbnail": "/images/songs/0831.png",
+    "postcardImage": null
+  },
+  {
+    "id": "ai-nijou",
+    "album": "dakara",
+    "trackNo": 2,
+    "isInterlude": false,
+    "title": {
+      "jp": "藍二乗",
+      "kr": "쪽빛 제곱",
+      "en": "Indigo Square"
+    },
+    "correspondingSongId": "yuu-ichijou",
+    "motifCluster": "amy-elma",
+    "color": {
+      "main": "#4A6B8A",
+      "mainName": "푸른색",
+      "secondary": "#F4EFE2",
+      "secondaryName": "흰색"
+    },
+    "mainObject": "푸른 잉크",
+    "secondaryObjects": [
+      "햇빛",
+      "창문"
+    ],
+    "mood": "맑지만 상실감 있음",
+    "movementFeeling": "잔잔함",
+    "weather": "맑음",
+    "lighting": "여름 햇빛",
+    "paperCondition": "깨끗함",
+    "waterMotif": "약함",
+    "keywords": [
+      "음악",
+      "여름",
+      "상실"
+    ],
+    "representativeLyric": {
+      "jp": "君だけが僕の音楽なんだ",
+      "en": "You alone are my music.",
+      "kr": "너만이 나의 음악이야."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": "https://youtu.be/4MoRLTAJY_0?si=aREImGX2XnpxEXOe",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/ai-nijou.png",
+    "postcardImage": null
+  },
+  {
+    "id": "hachigatsu-nanika-tsukiakari",
+    "album": "dakara",
+    "trackNo": 3,
+    "isInterlude": false,
+    "title": {
+      "jp": "八月、某、月明かり",
+      "kr": "8월, 누군가, 달빛",
+      "en": "August, a Certain, Moonlight"
+    },
+    "correspondingSongId": "yuunagi-nanika-hanamadoi",
+    "motifCluster": "memory-loss",
+    "color": {
+      "main": "#C9C2A8",
+      "mainName": "달빛색",
+      "secondary": "#3E4C6B",
+      "secondaryName": "남색"
+    },
+    "mainObject": "달빛",
+    "secondaryObjects": [
+      "자연물"
+    ],
+    "mood": "원망",
+    "movementFeeling": "흘러감",
+    "weather": "맑은 밤",
+    "lighting": "달빛",
+    "paperCondition": "약간 낡음",
+    "waterMotif": "중간",
+    "keywords": [
+      "예술",
+      "너",
+      "분노"
+    ],
+    "representativeLyric": {
+      "jp": "僕の全部最低だ",
+      "en": "Everything about me is the worst.",
+      "kr": "나의 전부가 최악이야."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: 一番最初に決めたのが「月明かり」だったんです。",
+      "en": "n-buna: The very first thing I decided on was “moonlight.”",
+      "kr": "n-buna: 가장 먼저 정했던 것이 「달빛」이었어요."
+    },
+    "source": "n-buna, interview by Nagahori Atsuo, Fanplus Music, 2019"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/oplDWPrtOOI?si=TNyTXiQ4U8XDwZ75",
+    "mvThumbnail": "/images/songs/hachigatsu-nanika-tsukiakari.png",
+    "postcardImage": null
+  },
+  {
+    "id": "shikaki-to-coffee",
+    "album": "dakara",
+    "trackNo": 4,
+    "isInterlude": false,
+    "title": {
+      "jp": "詩書きとコーヒー",
+      "kr": "시쓰기와 커피",
+      "en": "Writing a Poem and Coffee"
+    },
+    "correspondingSongId": "ame-to-cappuccino",
+    "motifCluster": "writing-words",
+    "color": {
+      "main": "#8C6A4F",
+      "mainName": "갈색",
+      "secondary": "#EDE3CC",
+      "secondaryName": "아이보리"
+    },
+    "mainObject": "커피",
+    "secondaryObjects": [
+      "노트",
+      "펜",
+      "시"
+    ],
+    "mood": "잔잔함",
+    "movementFeeling": "정적",
+    "weather": "실내",
+    "lighting": "따뜻한 조명",
+    "paperCondition": "커피 얼룩",
+    "waterMotif": "약함",
+    "keywords": [
+      "커피",
+      "시",
+      "기록"
+    ],
+    "representativeLyric": {
+      "jp": "君よ詩に成って往け",
+      "en": "Go on, turn yourself into a poem.",
+      "kr": "그대여 시가 되어 가라."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+        "quote": {
+          "jp": "『詩書きとコーヒー』は詩を書くエイミーの話。実際6畳の部屋に住んでましたからね（笑）。ほんとにリアルなんです。",
+          "en": "\"Poem-Writing and Coffee\" is about Amy, who writes poetry. I actually lived in a six-tatami-mat room myself, you know (laughs). It's really grounded in something real.",
+          "kr": "‘시쓰기와 커피’는 시를 쓰는 에이미의 이야기예요. 사실 저도 다다미 6장짜리 방에 살았었거든요(웃음). 정말 현실적인 이야기예요."
+        },
+        "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+      }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/twp_Gu2pJkM?si=i2FZhDClgqxHE5IA",
+    "mvThumbnail": "/images/songs/shikaki-to-coffee.png",
+    "postcardImage": null
+  },
+  {
+    "id": "0713",
+    "album": "dakara",
+    "trackNo": 5,
+    "isInterlude": true,
+    "title": {
+      "jp": "7/13",
+      "kr": "7/13",
+      "en": "7/13"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/AThUSmROzpw?si=hSiZT8gR2GyKtS7M",
+    "mvThumbnail": "/images/songs/0713.png",
+    "postcardImage": null
+  },
+  {
+    "id": "odorou-ze",
+    "album": "dakara",
+    "trackNo": 6,
+    "isInterlude": false,
+    "title": {
+      "jp": "踊ろうぜ",
+      "kr": "춤추자",
+      "en": "Let's Dance"
+    },
+    "correspondingSongId": "kamisama-no-dance",
+    "motifCluster": "music-silence",
+    "color": {
+      "main": "#C97B4A",
+      "mainName": "주황색",
+      "secondary": "#A4503F",
+      "secondaryName": "빨간색"
+    },
+    "mainObject": "리듬",
+    "secondaryObjects": [
+      "불빛"
+    ],
+    "mood": "신남",
+    "movementFeeling": "통통 튐",
+    "weather": "맑음",
+    "lighting": "공연 조명",
+    "paperCondition": "깨끗함",
+    "waterMotif": "없음",
+    "keywords": [
+      "춤",
+      "밤",
+      "열기"
+    ],
+    "representativeLyric": {
+      "jp": "音楽なんか辞めてやるのさ",
+      "en": "I'm done. I'm quitting music.",
+      "kr": "음악 같은 건 그만둬 버리는 거야."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/id0Jzya-8-8?si=NWVyyVfIiNxmmp0w",
+    "mvThumbnail": "/images/songs/odorou-ze.png",
+    "postcardImage": null
+  },
+  {
+    "id": "rokugatsu-amaagari",
+    "album": "dakara",
+    "trackNo": 7,
+    "isInterlude": false,
+    "title": {
+      "jp": "六月は雨上がりの街を書く",
+      "kr": "6월에는 비가 그친 거리를 쓰네",
+      "en": "In June, I Write about the Town After the Rain"
+    },
+    "correspondingSongId": "ame-haruru",
+    "motifCluster": "rain-water",
+    "color": {
+      "main": "#A8BD93",
+      "mainName": "연녹색",
+      "secondary": "#A8A296",
+      "secondaryName": "회색"
+    },
+    "mainObject": "이슬",
+    "secondaryObjects": [
+      "풀잎"
+    ],
+    "mood": "잔잔함",
+    "movementFeeling": "천천히 흐름",
+    "weather": "비 갠 뒤",
+    "lighting": "흐린 햇빛",
+    "paperCondition": "젖은 종이",
+    "waterMotif": "강함",
+    "keywords": [
+      "비",
+      "거리",
+      "이슬"
+    ],
+    "representativeLyric": {
+      "jp": "ずっと雨の街を書いている",
+      "en": "I keep writing this rain-soaked town.",
+      "kr": "계속 비오는 거리를 쓰고 있어."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/tXtyi6jGTFE?si=djiWpnr4N3WrWmT-",
+    "mvThumbnail": "/images/songs/rokugatsu-amaagari.png",
+    "postcardImage": null
+  },
+  {
+    "id": "gogatsu-hanarokushou",
+    "album": "dakara",
+    "trackNo": 8,
+    "isInterlude": false,
+    "title": {
+      "jp": "五月は花緑青の窓辺から",
+      "kr": "5월에는 화록청의 창가에서",
+      "en": "From May, from the Window of Verdigris"
+    },
+    "correspondingSongId": "aruku",
+    "motifCluster": "writing-words",
+    "color": {
+      "main": "#5E8C82",
+      "mainName": "청록색",
+      "secondary": "#F4EFE2",
+      "secondaryName": "흰색"
+    },
+    "mainObject": "창문",
+    "secondaryObjects": [
+      "이슬",
+      "햇빛"
+    ],
+    "mood": "아슬아슬함",
+    "movementFeeling": "잔잔함",
+    "weather": "맑음",
+    "lighting": "창가 햇빛",
+    "paperCondition": "얇은 종이",
+    "waterMotif": "약함",
+    "keywords": [
+      "창문",
+      "여름",
+      "빛"
+    ],
+    "representativeLyric": {
+      "jp": "この痛みが君の証明だ",
+      "en": "This pain is the proof that you were here.",
+      "kr": "이 아픔이 너의 증명이야."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/6fmSl15SCOM?si=ENT3PdpIf3y7yACD",
+    "mvThumbnail": "/images/songs/gogatsu-hanarokushou.png",
+    "postcardImage": null
+  },
+  {
+    "id": "yoru-magai",
+    "album": "dakara",
+    "trackNo": 9,
+    "isInterlude": false,
+    "title": {
+      "jp": "夜紛い",
+      "kr": "밤의 모조품",
+      "en": "False Night (Imitation Night)"
+    },
+    "correspondingSongId": "kokoro-ni-ana-ga-aita",
+    "motifCluster": "memory-loss",
+    "color": {
+      "main": "#3E4C6B",
+      "mainName": "남색",
+      "secondary": "#6E5A7A",
+      "secondaryName": "보라색"
+    },
+    "mainObject": "밤",
+    "secondaryObjects": [
+      "도시 불빛"
+    ],
+    "mood": "불안정함",
+    "movementFeeling": "통통 튐",
+    "weather": "밤",
+    "lighting": "어두운 조명",
+    "paperCondition": "구겨짐",
+    "waterMotif": "약함",
+    "keywords": [
+      "밤",
+      "거짓",
+      "불안"
+    ],
+    "representativeLyric": {
+      "jp": "ただ穴を開けたい",
+      "en": "I just want to open a hole.",
+      "kr": "그저 구멍을 내고 싶어."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/Jk3RAtzZilU?si=6-qwjovciajFEEvp",
+    "mvThumbnail": "/images/songs/yoru-magai.png",
+    "postcardImage": null
+  },
+  {
+    "id": "0506",
+    "album": "dakara",
+    "trackNo": 10,
+    "isInterlude": true,
+    "title": {
+      "jp": "5/6",
+      "kr": "5/6",
+      "en": "5/6"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/3zOS5nGJ-04?si=D1ttaYzRqgMuNjDS",
+    "mvThumbnail": "/images/songs/0506.png",
+    "postcardImage": null
+  },
+  {
+    "id": "parade",
+    "album": "dakara",
+    "trackNo": 11,
+    "isInterlude": false,
+    "title": {
+      "jp": "パレード",
+      "kr": "퍼레이드",
+      "en": "Parade"
+    },
+    "correspondingSongId": "koe",
+    "motifCluster": "memory-loss",
+    "color": {
+      "main": "#EDE3CC",
+      "mainName": "아이보리",
+      "secondary": "#C7C2B8",
+      "secondaryName": "연회색"
+    },
+    "mainObject": "퍼레이드",
+    "secondaryObjects": [
+      "바람"
+    ],
+    "mood": "잔잔함",
+    "movementFeeling": "흘러감",
+    "weather": "맑음",
+    "lighting": "부드러운 빛",
+    "paperCondition": "오래된 종이",
+    "waterMotif": "약함",
+    "keywords": [
+      "기억",
+      "흐름",
+      "행진"
+    ],
+    "representativeLyric": {
+      "jp": "君はそこなんだろうから",
+      "en": "Because that's where you must be.",
+      "kr": "너는 거기에 있을 테니까."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": "https://youtu.be/ry3Tupx4BL4?si=ZH_RuzqmN1WoNdX2",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/parade.png",
+    "postcardImage": null
+  },
+  {
+    "id": "elma",
+    "album": "dakara",
+    "trackNo": 12,
+    "isInterlude": false,
+    "title": {
+      "jp": "エルマ",
+      "kr": "엘마",
+      "en": "Elma"
+    },
+    "correspondingSongId": "amy",
+    "motifCluster": "amy-elma",
+    "color": {
+      "main": "#D8C8AE",
+      "mainName": "베이지",
+      "secondary": "#F4EFE2",
+      "secondaryName": "흰색"
+    },
+    "mainObject": "편지",
+    "secondaryObjects": [
+      "노트"
+    ],
+    "mood": "그리움",
+    "movementFeeling": "정적",
+    "weather": "실내",
+    "lighting": "햇빛",
+    "paperCondition": "접힌 흔적",
+    "waterMotif": "약함",
+    "keywords": [
+      "기억",
+      "편지",
+      "이름"
+    ],
+    "representativeLyric": {
+      "jp": "もうさよならだって歌って",
+      "en": "Singing it's already goodbye.",
+      "kr": "이젠 안녕이라고 노래하며."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: 一番最後に残ったインクで描いたのが「エルマ」。",
+      "en": "n-buna: “Elma” was written with the very last ink left.",
+      "kr": "n-buna: 가장 마지막에 남은 잉크로 쓴 것이 「엘마」예요."
+    },
+    "source": "n-buna, interview by Nagahori Atsuo, Fanplus Music, 2019"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/AZgsGUH_Jd0?si=N_nQNio3lh-YudG9",
+    "mvThumbnail": "/images/songs/elma.png",
+    "postcardImage": null
+  },
+  {
+    "id": "0410",
+    "album": "dakara",
+    "trackNo": 13,
+    "isInterlude": true,
+    "title": {
+      "jp": "4/10",
+      "kr": "4/10",
+      "en": "4/10"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/wgZZ7Y3EQmg?si=rBnhnWjKB13DdTxO",
+    "mvThumbnail": "/images/songs/0410.png",
+    "postcardImage": null
+  },
+  {
+    "id": "dakara-boku-wa-ongaku-wo-yameta",
+    "album": "dakara",
+    "trackNo": 14,
+    "isInterlude": false,
+    "title": {
+      "jp": "だから僕は音楽を辞めた",
+      "kr": "그래서 나는 음악을 그만뒀다",
+      "en": "That's Why I Gave Up on Music (Moonlight)"
+    },
+    "correspondingSongId": "nautilus",
+    "motifCluster": "music-silence",
+    "color": {
+      "main": "#F4EFE2",
+      "mainName": "흰색",
+      "secondary": "#4A6B8A",
+      "secondaryName": "푸른색"
+    },
+    "mainObject": "피아노",
+    "secondaryObjects": [
+      "바다",
+      "악보"
+    ],
+    "mood": "밝지만 우울함",
+    "movementFeeling": "천천히 흐름",
+    "weather": "흐림",
+    "lighting": "여름빛",
+    "paperCondition": "낡은 악보",
+    "waterMotif": "중간",
+    "keywords": [
+      "음악",
+      "좌절",
+      "바다"
+    ],
+    "representativeLyric": {
+      "jp": "音楽はしてないといいね",
+      "en": "I hope I'm not making music anymore.",
+      "kr": "음악은 안 하고 있으면 좋겠네."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "suis: 私は自分が音楽をやめる青年の気持ちになりきってました。",
+      "en": "suis: I completely became the young man who gives up music.",
+      "kr": "suis: 제가 음악을 그만두는 청년의 마음이 된 것처럼 몰입했어요."
+    },
+    "source": "suis, interview by Nagahori Atsuo, Fanplus Music, 2019"
+  }
+    ],
+    "youtubeUrl": "https://youtu.be/KTZ-y85Erus?si=5LmLaNIQjvzgsUXx",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/dakara-boku-wa-ongaku-wo-yameta.png",
+    "postcardImage": null
+  },
+  {
+    "id": "shasou",
+    "album": "elma",
+    "trackNo": 1,
+    "isInterlude": true,
+    "title": {
+      "jp": "車窓",
+      "kr": "차창",
+      "en": "Train Window"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/oeMP1XtA92A?si=Waf26m6qckkqBQcW",
+    "mvThumbnail": "/images/songs/shasou.png",
+    "postcardImage": null
+  },
+  {
+    "id": "yuu-ichijou",
+    "album": "elma",
+    "trackNo": 2,
+    "isInterlude": false,
+    "title": {
+      "jp": "憂一乗",
+      "kr": "우울 한 겹",
+      "en": "Only Sorrow"
+    },
+    "correspondingSongId": "ai-nijou",
+    "motifCluster": "city-travel",
+    "color": {
+      "main": "#B7C9A0",
+      "mainName": "연두색",
+      "secondary": "#5E8C82",
+      "secondaryName": "청록색"
+    },
+    "mainObject": "호수",
+    "secondaryObjects": [
+      "진흙"
+    ],
+    "mood": "잔잔한 그리움",
+    "movementFeeling": "천천히 흐름",
+    "weather": "흐림",
+    "lighting": "호수 아래로 들어오는 빛",
+    "paperCondition": "물에 젖음",
+    "waterMotif": "강함",
+    "keywords": [
+      "그리움",
+      "호수",
+      "방황"
+    ],
+    "representativeLyric": {
+      "jp": "また君の歌が聴きたい",
+      "en": "I want to hear your song again.",
+      "kr": "다시 너의 노래가 듣고 싶어."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/RMreKWHCP74?si=J8Q5ZJccNvCOW9yw",
+    "mvThumbnail": "/images/songs/yuu-ichijou.png",
+    "postcardImage": null
+  },
+  {
+    "id": "yuunagi-nanika-hanamadoi",
+    "album": "elma",
+    "trackNo": 3,
+    "isInterlude": false,
+    "title": {
+      "jp": "夕凪、某、花惑い",
+      "kr": "무풍, 누군가, 꽃에 취하다",
+      "en": "Evening Calm, Somewhere, Fireworks"
+    },
+    "correspondingSongId": "hachigatsu-nanika-tsukiakari",
+    "motifCluster": "city-travel",
+    "color": {
+      "main": "#E3BFB4",
+      "mainName": "연분홍",
+      "secondary": "#CC9466",
+      "secondaryName": "주황빛"
+    },
+    "mainObject": "꽃",
+    "secondaryObjects": [
+      "바람"
+    ],
+    "mood": "고요함",
+    "movementFeeling": "흘러감",
+    "weather": "노을",
+    "lighting": "노을빛",
+    "paperCondition": "얇은 종이",
+    "waterMotif": "약함",
+    "keywords": [
+      "꽃",
+      "저녁",
+      "바람"
+    ],
+    "representativeLyric": {
+      "jp": "花惑う夏を待つ僕に差す月明かり",
+      "en": "Moonlight falls on me, waiting for a flower-dizzy summer.",
+      "kr": "꽃에 취하는 여름을 기다리는 내게 비치는 달빛."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: この曲はエイミーとの思い出を語っている曲です。",
+      "en": "n-buna: This song speaks about memories with Amy.",
+      "kr": "n-buna: 이 곡은 에이미와의 추억을 이야기하는 곡입니다."
+    },
+    "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/wpkgN3Ny_P0?si=y8ZN89ZgS8nMDXwy",
+    "mvThumbnail": "/images/songs/yuunagi-nanika-hanamadoi.png",
+    "postcardImage": null
+  },
+  {
+    "id": "ame-to-cappuccino",
+    "album": "elma",
+    "trackNo": 4,
+    "isInterlude": false,
+    "title": {
+      "jp": "雨とカプチーノ",
+      "kr": "비와 카푸치노",
+      "en": "Rain with Cappuccino"
+    },
+    "correspondingSongId": "shikaki-to-coffee",
+    "motifCluster": "rain-water",
+    "color": {
+      "main": "#D9B65B",
+      "mainName": "노란색",
+      "secondary": "#A8A296",
+      "secondaryName": "회색"
+    },
+    "mainObject": "커피",
+    "secondaryObjects": [
+      "빗방울"
+    ],
+    "mood": "그리움",
+    "movementFeeling": "잔잔함",
+    "weather": "비",
+    "lighting": "흐린 창문빛",
+    "paperCondition": "물 번짐",
+    "waterMotif": "강함",
+    "keywords": [
+      "비",
+      "커피",
+      "그리움"
+    ],
+    "representativeLyric": {
+      "jp": "どうか君が溢れないように",
+      "en": "Please don't let it overflow.",
+      "kr": "부디 네가 흘러넘치지 않도록."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+        "quote": {
+          "jp": "これはエイミーとの出会いの曲です。雨のカフェテラスで、カプチーノを飲んでいるエイミーをエルマが見ている。",
+          "en": "This is the song of the first meeting with Amy. Elma is watching Amy, who is drinking a cappuccino on a rainy café terrace.",
+          "kr": "이건 에이미와의 첫 만남을 그린 곡입니다. 비 내리는 카페 테라스에서 카푸치노를 마시는 에이미를 엘마가 바라보고 있어요."
+        },
+        "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+      }
+    ],
+    "youtubeUrl": "https://youtu.be/PWbRleMGagU?si=62dOQ5q4DfmXoFs1",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/ame-to-cappuccino.png",
+    "postcardImage": null
+  },
+  {
+    "id": "mizuumi-no-machi",
+    "album": "elma",
+    "trackNo": 5,
+    "isInterlude": true,
+    "title": {
+      "jp": "湖の街",
+      "kr": "호수의 거리",
+      "en": "Lakeside Town"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/g1WD9ogYZLU?si=AAm-j5FVxMkaRbbG",
+    "mvThumbnail": "/images/songs/mizuumi-no-machi.png",
+    "postcardImage": null
+  },
+  {
+    "id": "kamisama-no-dance",
+    "album": "elma",
+    "trackNo": 6,
+    "isInterlude": false,
+    "title": {
+      "jp": "神様のダンス",
+      "kr": "신의 댄스",
+      "en": "Dance of You"
+    },
+    "correspondingSongId": "odorou-ze",
+    "motifCluster": "music-silence",
+    "color": {
+      "main": "#D9B65B",
+      "mainName": "노란색",
+      "secondary": "#A4503F",
+      "secondaryName": "빨간색"
+    },
+    "mainObject": "춤",
+    "secondaryObjects": [
+      "조명"
+    ],
+    "mood": "활기참",
+    "movementFeeling": "빠름",
+    "weather": "맑음",
+    "lighting": "무대 조명",
+    "paperCondition": "깨끗함",
+    "waterMotif": "없음",
+    "keywords": [
+      "춤",
+      "리듬",
+      "원망"
+    ],
+    "representativeLyric": {
+      "jp": "教えてくれたのはあんたじゃないか",
+      "en": "Wasn't it you who taught me this?",
+      "kr": "그렇게 가르쳐 준 것은 너잖아."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/3qTWFjeItaw?si=TuZ8hsvz4_nZBcrU",
+    "mvThumbnail": "/images/songs/kamisama-no-dance.png",
+    "postcardImage": null
+  },
+  {
+    "id": "ame-haruru",
+    "album": "elma",
+    "trackNo": 7,
+    "isInterlude": false,
+    "title": {
+      "jp": "雨晴るる",
+      "kr": "비가 개다",
+      "en": "After the Rain"
+    },
+    "correspondingSongId": "rokugatsu-amaagari",
+    "motifCluster": "rain-water",
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": "연회색",
+      "secondary": "#4A6B8A",
+      "secondaryName": "푸른색"
+    },
+    "mainObject": "이슬비",
+    "secondaryObjects": [
+      "안개"
+    ],
+    "mood": "잔잔함",
+    "movementFeeling": "느리게 흐름",
+    "weather": "비 뒤",
+    "lighting": "흐린 빛",
+    "paperCondition": "젖은 종이",
+    "waterMotif": "강함",
+    "keywords": [
+      "비",
+      "회복",
+      "거리"
+    ],
+    "representativeLyric": {
+      "jp": "君のいない夏がまた来る",
+      "en": "Another summer without you is coming.",
+      "kr": "네가 없는 여름이 또다시 찾아와."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/lEKSsgwn8hw?si=FWvLY31apNZl7ufl",
+    "mvThumbnail": "/images/songs/ame-haruru.png",
+    "postcardImage": null
+  },
+  {
+    "id": "aruku",
+    "album": "elma",
+    "trackNo": 8,
+    "isInterlude": false,
+    "title": {
+      "jp": "歩く",
+      "kr": "걷다",
+      "en": "Walking"
+    },
+    "correspondingSongId": "gogatsu-hanarokushou",
+    "motifCluster": "city-travel",
+    "color": {
+      "main": "#6F8F6A",
+      "mainName": "초록색",
+      "secondary": "#EDE3CC",
+      "secondaryName": "아이보리"
+    },
+    "mainObject": "산책길",
+    "secondaryObjects": [
+      "햇빛"
+    ],
+    "mood": "조용함",
+    "movementFeeling": "걷는 느낌",
+    "weather": "맑음",
+    "lighting": "낮빛",
+    "paperCondition": "깨끗함",
+    "waterMotif": "약함",
+    "keywords": [
+      "걷기",
+      "여름",
+      "빛"
+    ],
+    "representativeLyric": {
+      "jp": "今でも、エイミー",
+      "en": "Even now, Amy.",
+      "kr": "지금도, 에이미."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/rjrres2QTyk?si=b1Ew9ZddTRlq-y4w",
+    "mvThumbnail": "/images/songs/aruku.png",
+    "postcardImage": null
+  },
+  {
+    "id": "kokoro-ni-ana-ga-aita",
+    "album": "elma",
+    "trackNo": 9,
+    "isInterlude": false,
+    "title": {
+      "jp": "心に穴が空いた",
+      "kr": "마음에 구멍이 뚫렸어",
+      "en": "Hole in the Heart"
+    },
+    "correspondingSongId": "yoru-magai",
+    "motifCluster": "memory-loss",
+    "color": {
+      "main": "#3A3530",
+      "mainName": "검은색",
+      "secondary": "#4A6B8A",
+      "secondaryName": "푸른색"
+    },
+    "mainObject": "구멍",
+    "secondaryObjects": [
+      "하늘빛"
+    ],
+    "mood": "공허함",
+    "movementFeeling": "불안정함",
+    "weather": "흐림",
+    "lighting": "차가운 빛",
+    "paperCondition": "찢어진 종이",
+    "waterMotif": "약함",
+    "keywords": [
+      "공허",
+      "밤",
+      "불안"
+    ],
+    "representativeLyric": {
+      "jp": "だから心に穴が空いた",
+      "en": "And so a hole opened up in my heart.",
+      "kr": "그래서 마음에 구멍이 뚫렸어."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: エルマは「だから心に穴が空いた」と返している。",
+      "en": "n-buna: Elma replies, “That is why a hole opened in my heart.”",
+      "kr": "n-buna: 엘마는 “그래서 마음에 구멍이 뚫렸다”고 답하고 있어요."
+    },
+    "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+  }
+    ],
+    "youtubeUrl": "https://youtu.be/DlyG6MAKUOA?si=6drQ_eQHwxu1rPd4",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/kokoro-ni-ana-ga-aita.png",
+    "postcardImage": null
+  },
+  {
+    "id": "mori-no-kyoukai",
+    "album": "elma",
+    "trackNo": 10,
+    "isInterlude": true,
+    "title": {
+      "jp": "森の教会",
+      "kr": "숲의 교회",
+      "en": "Church in the Forest"
+    },
+    "correspondingSongId": null,
+    "motifCluster": null,
+    "color": {
+      "main": "#C7C2B8",
+      "mainName": null,
+      "secondary": null,
+      "secondaryName": null
+    },
+    "mainObject": null,
+    "secondaryObjects": [],
+    "mood": null,
+    "movementFeeling": null,
+    "weather": null,
+    "lighting": null,
+    "paperCondition": null,
+    "waterMotif": null,
+    "keywords": [],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/N4OL5QgZ2G4?si=JZ2ZDAUJzFc-byYN",
+    "mvThumbnail": "/images/songs/mori-no-kyoukai.png",
+    "postcardImage": null
+  },
+  {
+    "id": "koe",
+    "album": "elma",
+    "trackNo": 11,
+    "isInterlude": false,
+    "title": {
+      "jp": "声",
+      "kr": "목소리",
+      "en": "Voice"
+    },
+    "correspondingSongId": "parade",
+    "motifCluster": "writing-words",
+    "color": {
+      "main": "#4A6B8A",
+      "mainName": "푸른색",
+      "secondary": "#6E5A7A",
+      "secondaryName": "보라색"
+    },
+    "mainObject": "목소리",
+    "secondaryObjects": [
+      "아침 하늘"
+    ],
+    "mood": "맑음",
+    "movementFeeling": "바라보는 느낌",
+    "weather": "맑음",
+    "lighting": "아침 하늘빛",
+    "paperCondition": "깨끗함",
+    "waterMotif": "없음",
+    "keywords": [
+      "말",
+      "하늘",
+      "기억"
+    ],
+    "representativeLyric": {
+      "jp": "この喉を通るさよなら 呑み込んで",
+      "en": "Swallowing the goodbye stuck in my throat.",
+      "kr": "이 목을 지나가는 작별 인사를 삼키고선."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: エルマが「声」という詩を書いたという形です。",
+      "en": "n-buna: It takes the form of Elma writing a poem called “Voice.”",
+      "kr": "n-buna: 엘마가 「목소리」라는 시를 쓴 형태입니다."
+    },
+    "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/Hl56wOGf0iY?si=EPL5QIBwyDhQJQsK",
+    "mvThumbnail": "/images/songs/koe.png",
+    "postcardImage": null
+  },
+  {
+    "id": "amy",
+    "album": "elma",
+    "trackNo": 12,
+    "isInterlude": false,
+    "title": {
+      "jp": "エイミー",
+      "kr": "에이미",
+      "en": "Amy"
+    },
+    "correspondingSongId": "elma",
+    "motifCluster": "amy-elma",
+    "color": {
+      "main": "#6F8F6A",
+      "mainName": "초록색",
+      "secondary": "#CC9466",
+      "secondaryName": "주황빛"
+    },
+    "mainObject": "가사",
+    "secondaryObjects": [
+      "인생"
+    ],
+    "mood": "그리움",
+    "movementFeeling": "바라보는 느낌",
+    "weather": "맑음",
+    "lighting": "따뜻한 빛",
+    "paperCondition": "깨끗함",
+    "waterMotif": "없음",
+    "keywords": [
+      "인생",
+      "상상력",
+      "너"
+    ],
+    "representativeLyric": {
+      "jp": "さぁ人生全部が馬鹿みたいなのに",
+      "en": "Even though all of life is foolish.",
+      "kr": "자, 인생의 모든 것이 바보 같은데."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: この曲はエルマが旅の中で最後に書いた曲です。",
+      "en": "n-buna: This is the song Elma wrote last during her journey.",
+      "kr": "n-buna: 이 곡은 엘마가 여행 중 마지막으로 쓴 곡입니다."
+    },
+    "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+  }
+    ],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/Ysyap8QkF-A?si=KHrW1ZvS7zKGMIkB",
+    "mvThumbnail": "/images/songs/amy.png",
+    "postcardImage": null
+  },
+  {
+    "id": "kaitei-tsukiakari",
+    "album": "elma",
+    "trackNo": 13,
+    "isInterlude": true,
+    "title": {
+      "jp": "海底、月明かり",
+      "kr": "해저, 달빛",
+      "en": "Seabed, Moonlight"
+    },
+    "correspondingSongId": "hachigatsu-nanika-tsukiakari",
+    "motifCluster": null,
+    "color": {
+      "main": "#2B3650",
+      "mainName": "짙은 남색",
+      "secondary": "#7E9CB0",
+      "secondaryName": "푸른빛"
+    },
+    "mainObject": "바다",
+    "secondaryObjects": [
+      "달빛"
+    ],
+    "mood": "고요함",
+    "movementFeeling": "가라앉는 느낌",
+    "weather": "밤",
+    "lighting": "물빛 반사",
+    "paperCondition": "젖은 종이",
+    "waterMotif": "강함",
+    "keywords": [
+      "바다",
+      "달빛",
+      "심해"
+    ],
+    "representativeLyric": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [],
+    "youtubeUrl": null,
+    "youtubeMusicUrl": "https://youtu.be/eH_GNrsIy54?si=BBuAwFoggccrjGx-",
+    "mvThumbnail": "/images/songs/kaitei-tsukiakari.png",
+    "postcardImage": null
+  },
+  {
+    "id": "nautilus",
+    "album": "elma",
+    "trackNo": 14,
+    "isInterlude": false,
+    "title": {
+      "jp": "ノーチラス",
+      "kr": "노틸러스",
+      "en": "Nautilus"
+    },
+    "correspondingSongId": "dakara-boku-wa-ongaku-wo-yameta",
+    "motifCluster": "amy-elma",
+    "color": {
+      "main": "#4A6B8A",
+      "mainName": "푸른색",
+      "secondary": "#F4EFE2",
+      "secondaryName": "흰색"
+    },
+    "mainObject": "통기타",
+    "secondaryObjects": [
+      "바다"
+    ],
+    "mood": "마지막 감정",
+    "movementFeeling": "천천히 흐름",
+    "weather": "맑음",
+    "lighting": "여름 햇빛",
+    "paperCondition": "빛바랜 종이",
+    "waterMotif": "중간",
+    "keywords": [
+      "바다",
+      "여름",
+      "끝"
+    ],
+    "representativeLyric": {
+      "jp": "君を何度だって描いているから",
+      "en": "Because I keep drawing you, again and again.",
+      "kr": "너를 몇 번이고 그리고 있으니까."
+    },
+    "mvSceneNotes": null,
+    "hiddenObjectNotes": null,
+    "summary": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "description": {
+      "jp": null,
+      "en": null,
+      "kr": null
+    },
+    "interviewExcerpts": [
+      {
+    "quote": {
+      "jp": "n-buna: 物語の中では「ノーチラス」はエイミーが最後に残した曲ということになっています。",
+      "en": "n-buna: Within the story, “Nautilus” is the last song Amy leaves behind.",
+      "kr": "n-buna: 이야기 속에서 「노틸러스」는 에이미가 마지막으로 남긴 곡으로 되어 있어요."
+    },
+    "source": "n-buna, interview by Shiba Tomonori, \"Interview,\" Yorushika 2nd Full Album Elma Special Site, Universal Music Japan"
+  }
+    ],
+    "youtubeUrl": "https://youtu.be/j83OVgv6woA?si=Vz8pblTURDQ3_1E5",
+    "youtubeMusicUrl": null,
+    "mvThumbnail": "/images/songs/nautilus.png",
+    "postcardImage": null
+  }
+]

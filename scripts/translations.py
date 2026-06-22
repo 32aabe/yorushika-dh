@@ -1,0 +1,118 @@
+# -*- coding: utf-8 -*-
+"""
+Hand-written English/Korean translations for song titles and representative
+lyrics. Kept separate from build_songs.py so it's easy to find and edit.
+
+Keys are the stable song id (see slugify() in build_songs.py).
+"""
+
+# English titles (idiomatic, not literal word-for-word where the natural
+# English phrasing differs from the JP word order).
+TITLES_EN = {
+    "0831": "8/31",
+    "ai-nijou": "Indigo Squared",
+    "hachigatsu-nanika-tsukiakari": "August, Something, Moonlight",
+    "shikaki-to-coffee": "Poem-Writing and Coffee",
+    "0713": "7/13",
+    "odorou-ze": "Let's Dance",
+    "rokugatsu-amaagari": "June Writes a City After Rain",
+    "gogatsu-hanarokushou": "May, From a Verdigris Window",
+    "yoru-magai": "Night-Like",
+    "0506": "5/6",
+    "parade": "Parade",
+    "elma": "Elma",
+    "0410": "4/10",
+    "dakara-boku-wa-ongaku-wo-yameta": "That's Why I Gave Up on Music",
+    "shasou": "Train Window",
+    "yuu-ichijou": "Melancholy Squared",
+    "yuunagi-nanika-hanamadoi": "Evening Calm, Something, Flower Confusion",
+    "ame-to-cappuccino": "Rain and Cappuccino",
+    "mizuumi-no-machi": "Lakeside Town",
+    "kamisama-no-dance": "God's Dance",
+    "ame-haruru": "The Rain Clears",
+    "aruku": "Walking",
+    "kokoro-ni-ana-ga-aita": "A Hole Opened Up in My Heart",
+    "mori-no-kyoukai": "The Forest Chapel",
+    "koe": "Voice",
+    "amy": "Amy",
+    "kaitei-tsukiakari": "Seafloor, Moonlight",
+    "nautilus": "Nautilus",
+}
+
+TITLES_KR = {
+    "0831": "8/31",
+    "ai-nijou": "아이니죠",
+    "hachigatsu-nanika-tsukiakari": "팔월, 어느 것, 달빛",
+    "shikaki-to-coffee": "시쓰기와 커피",
+    "0713": "7/13",
+    "odorou-ze": "춤추자",
+    "rokugatsu-amaagari": "6월은 비 갠 거리를 적는다",
+    "gogatsu-hanarokushou": "5월은 청록색 창가에서",
+    "yoru-magai": "밤을 닮은",
+    "0506": "5/6",
+    "parade": "퍼레이드",
+    "elma": "엘마",
+    "0410": "4/10",
+    "dakara-boku-wa-ongaku-wo-yameta": "그래서 나는 음악을 그만뒀다",
+    "shasou": "차창",
+    "yuu-ichijou": "우이치죠",
+    "yuunagi-nanika-hanamadoi": "저녁뜸, 어느 것, 꽃멀미",
+    "ame-to-cappuccino": "비와 카푸치노",
+    "mizuumi-no-machi": "호숫가 마을",
+    "kamisama-no-dance": "신의 춤",
+    "ame-haruru": "비가 갠다",
+    "aruku": "걷다",
+    "kokoro-ni-ana-ga-aita": "마음에 구멍이 뚫렸다",
+    "mori-no-kyoukai": "숲속 교회",
+    "koe": "목소리",
+    "amy": "에이미",
+    "kaitei-tsukiakari": "해저, 달빛",
+    "nautilus": "노틸러스",
+}
+
+# Representative lyric line, translated idiomatically.
+REP_LYRIC_EN = {
+    "ai-nijou": "You alone are my music.",
+    "hachigatsu-nanika-tsukiakari": "Everything about me is the worst.",
+    "shikaki-to-coffee": "Go on, turn yourself into a poem.",
+    "odorou-ze": "I'm done. I'm quitting music.",
+    "rokugatsu-amaagari": "I keep writing this rain-soaked town.",
+    "gogatsu-hanarokushou": "This pain is the proof that you were here.",
+    "yoru-magai": "I just want to open a hole.",
+    "parade": "Because that's where you must be.",
+    "elma": "Singing it's already goodbye.",
+    "dakara-boku-wa-ongaku-wo-yameta": "I hope I'm not making music anymore.",
+    "yuu-ichijou": "I want to hear your song again.",
+    "yuunagi-nanika-hanamadoi": "Moonlight falls on me, waiting for a flower-dizzy summer.",
+    "ame-to-cappuccino": "Please don't let it overflow.",
+    "kamisama-no-dance": "Wasn't it you who taught me this?",
+    "ame-haruru": "Another summer without you is coming.",
+    "aruku": "Even now, Amy.",
+    "kokoro-ni-ana-ga-aita": "And so a hole opened up in my heart.",
+    "koe": "Swallowing the goodbye stuck in my throat.",
+    "amy": "Even though all of life is foolish.",
+    "nautilus": "Because I keep drawing you, again and again.",
+}
+
+REP_LYRIC_KR = {
+    "ai-nijou": "너만이 나의 음악이야.",
+    "hachigatsu-nanika-tsukiakari": "나의 전부가 최악이다.",
+    "shikaki-to-coffee": "너야말로 시가 되어 가라.",
+    "odorou-ze": "음악 같은 건 그만둬 버릴 거야.",
+    "rokugatsu-amaagari": "계속 비 내린 거리를 적고 있어.",
+    "gogatsu-hanarokushou": "이 아픔이 너의 증거야.",
+    "yoru-magai": "그저 구멍을 내고 싶어.",
+    "parade": "너는 분명 그곳에 있을 테니까.",
+    "elma": "벌써 작별이라며 노래해.",
+    "dakara-boku-wa-ongaku-wo-yameta": "음악을 하지 않고 있다면 좋겠어.",
+    "yuu-ichijou": "다시 너의 노래를 듣고 싶어.",
+    "yuunagi-nanika-hanamadoi": "꽃에 어지러울 여름을 기다리는 나에게 비치는 달빛.",
+    "ame-to-cappuccino": "제발 네가 넘치지 않도록.",
+    "kamisama-no-dance": "가르쳐준 건 당신이 아니었나요.",
+    "ame-haruru": "네가 없는 여름이 다시 와.",
+    "aruku": "지금도, 에이미.",
+    "kokoro-ni-ana-ga-aita": "그래서 마음에 구멍이 뚫렸다.",
+    "koe": "목구멍을 지나는 작별을, 삼켜내고.",
+    "amy": "인생 전부가 바보 같은데도.",
+    "nautilus": "몇 번이고 너를 그리고 있으니까.",
+}

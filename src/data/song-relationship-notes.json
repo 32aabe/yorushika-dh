@@ -1,0 +1,57 @@
+{
+  "ai-nijou|yuu-ichijou": {
+    "jp": "同じ「二乗」という言葉遊びを軸にした対の曲。藍二乗はエルマの視点、憂一乗はエイミーの視点として読める。",
+    "en": "A matched pair built on the same wordplay (\"squared\"). Indigo Squared reads as Elma's point of view; Sorrow to the First Power reads as Amy's.",
+    "kr": "'제곱'이라는 같은 언어유희를 축으로 삼은 한 쌍의 곡. 藍二乗는 엘마의 시점, 憂一乗는 에이미의 시점으로 읽힌다."
+  },
+  "hachigatsu-nanika-tsukiakari|yuunagi-nanika-hanamadoi": {
+    "jp": "同じ8月の夜を、エルマとエイミーそれぞれの側から描いた一対。タイトルの構造（八月、某、＿＿）も鏡のように揃えられている。",
+    "en": "The same August night, told once from Elma's side and once from Amy's — even the title structure (\"August, Something, ___\") mirrors itself.",
+    "kr": "같은 8월의 밤을, 엘마와 에이미 각자의 시선에서 그린 한 쌍. 제목의 구조(팔월, 어느 것, ＿＿)도 거울처럼 맞춰져 있다."
+  },
+  "ame-to-cappuccino|shikaki-to-coffee": {
+    "jp": "同じ雨の日の、異なる視点。エルマがエイミーに書かれている曲と、エイミーがエルマに書かれている曲が、互いの対応曲として置かれている。",
+    "en": "The same rainy day from two different sides — one song written about Elma, the other about Amy, set as each other's counterpart.",
+    "kr": "같은 비 오는 날의, 서로 다른 시선. 엘마가 그려지는 곡과 에이미가 그려지는 곡이 서로의 대응곡으로 놓여 있다."
+  },
+  "kamisama-no-dance|odorou-ze": {
+    "jp": "音楽を「辞める」側と「踊る」側に分かれた、リズムの近い対の曲。ともに踊りと諦めが同じ場面に置かれている。",
+    "en": "A rhythmically close pair split between giving music up and dancing through it anyway — both place resignation and dancing in the same scene.",
+    "kr": "음악을 '그만두는' 쪽과 '춤추는' 쪽으로 나뉜, 리듬이 가까운 한 쌍. 둘 다 춤과 포기를 같은 장면 안에 두고 있다."
+  },
+  "ame-haruru|rokugatsu-amaagari": {
+    "jp": "雨上がりという同じ気象の情景を、街を歩く側と、雨そのものを見つめる側からそれぞれ描いている。",
+    "en": "The same after-the-rain weather, described once by someone walking through the city and once by someone simply watching the rain.",
+    "kr": "비가 갠 뒤라는 같은 날씨의 풍경을, 거리를 걷는 쪽과 비 자체를 바라보는 쪽에서 각각 그리고 있다."
+  },
+  "aruku|gogatsu-hanarokushou": {
+    "jp": "窓辺から見る側と、実際に歩く側。同じ5月の光が、静止した視点と動く視点に分かれて描かれている。",
+    "en": "Watching from a window versus actually walking. The same May light is split between a still vantage point and a moving one.",
+    "kr": "창가에서 바라보는 쪽과 실제로 걷는 쪽. 같은 5월의 빛이 멈춰 있는 시점과 움직이는 시점으로 나뉘어 그려진다."
+  },
+  "kokoro-ni-ana-ga-aita|yoru-magai": {
+    "jp": "夜の不安定さと、空いた穴。どちらも満たされない心を別の角度から書いている対応曲。",
+    "en": "The instability of night and the hole that's left behind — two takes on the same unfilled feeling.",
+    "kr": "밤의 불안정함과 텅 빈 구멍. 둘 다 채워지지 않는 마음을 다른 각도에서 쓴 대응곡이다."
+  },
+  "koe|parade": {
+    "jp": "声を呑み込む側と、それでも続いていくパレード。喪失の後にどう動くかを、別の比喩で描いている。",
+    "en": "Swallowing a voice, and a parade that keeps moving anyway — two different metaphors for what happens after a loss.",
+    "kr": "목소리를 삼키는 쪽과, 그래도 계속되는 퍼레이드. 상실 이후 어떻게 움직이는지를 서로 다른 비유로 그리고 있다."
+  },
+  "amy|elma": {
+    "jp": "深い縁の、互いに違う視線。エイミーがエルマへ宛てた最初の手紙と、その後のやりとりが交差している。",
+    "en": "Two deeply entwined people, looking at each other from opposite sides — Amy's first letter to Elma, and everything that followed, crossing paths here.",
+    "kr": "깊은 인연의, 서로 다른 시선. 에이미가 엘마에게 보낸 첫 번째 편지와 그 이후의 이야기가 교차한다."
+  },
+  "dakara-boku-wa-ongaku-wo-yameta|nautilus": {
+    "jp": "音楽を辞めるという宣言と、海の底に沈んでいくような最後の感情。アルバム全体を結ぶ対応曲。",
+    "en": "A declaration of giving up music, paired with a final feeling like sinking to the sea floor — the pair that closes the whole album.",
+    "kr": "음악을 그만둔다는 선언과, 바다 깊이 가라앉는 듯한 마지막 감정. 앨범 전체를 묶는 대응곡."
+  },
+  "hachigatsu-nanika-tsukiakari|kaitei-tsukiakari": {
+    "jp": "同じ月明かりを、海の底からと、地上の夜からそれぞれ見上げている。",
+    "en": "The same moonlight, looked up at once from the sea floor and once from a night on land.",
+    "kr": "같은 달빛을, 바다 밑에서와 지상의 밤에서 각각 올려다보고 있다."
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rain-water",
+    "label": {
+      "jp": "雨と水",
+      "en": "Rain & Water",
+      "kr": "비와 물"
+    },
+    "color": "#5E7C99",
+    "center": {
+      "x": 480,
+      "y": 380
+    }
+  },
+  {
+    "id": "writing-words",
+    "label": {
+      "jp": "言葉と詩",
+      "en": "Writing & Words",
+      "kr": "글과 말"
+    },
+    "color": "#8C6A4F",
+    "center": {
+      "x": 1480,
+      "y": 250
+    }
+  },
+  {
+    "id": "memory-loss",
+    "label": {
+      "jp": "記憶と喪失",
+      "en": "Memory & Loss",
+      "kr": "기억과 상실"
+    },
+    "color": "#6E5A7A",
+    "center": {
+      "x": 2380,
+      "y": 470
+    }
+  },
+  {
+    "id": "city-travel",
+    "label": {
+      "jp": "街と旅",
+      "en": "City & Travel",
+      "kr": "거리와 여행"
+    },
+    "color": "#A8783F",
+    "center": {
+      "x": 340,
+      "y": 1380
+    }
+  },
+  {
+    "id": "amy-elma",
+    "label": {
+      "jp": "エイミーとエルマ",
+      "en": "Amy & Elma",
+      "kr": "에이미와 엘마"
+    },
+    "color": "#A4503F",
+    "center": {
+      "x": 1380,
+      "y": 1500
+    }
+  },
+  {
+    "id": "music-silence",
+    "label": {
+      "jp": "音楽と沈黙",
+      "en": "Music & Silence",
+      "kr": "음악과 침묵"
+    },
+    "color": "#4A6B5E",
+    "center": {
+      "x": 2400,
+      "y": 1380
+    }
+  }
+]

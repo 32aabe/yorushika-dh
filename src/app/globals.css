@@ -1,0 +1,157 @@
+@import "tailwindcss";
+
+:root {
+  /* Paper & ink — desaturated, warm, never pure black/white */
+  --paper-cream: #ece4d3;
+  --paper-cream-light: #f3ecdd;
+  --paper-aged: #e3d8c1;
+  --paper-line: rgba(90, 75, 50, 0.13);
+  --paper-edge-shadow: rgba(60, 45, 25, 0.18);
+
+  --ink-main: #2e2a23;
+  --ink-soft: #54493a;
+  --ink-faint: #8c8070;
+
+  /* Album accent palettes (mirrored, not identical) */
+  --dakara-accent: #4a6b8a;   /* fountain pen blue, daytime */
+  --dakara-accent-soft: #b9c9d6;
+  --elma-accent: #3e4c6b;     /* washed indigo, lake/evening */
+  --elma-accent-soft: #aab6c9;
+
+  --highlight-gold: #c9952f;
+  --highlight-gold-soft: #e8d5a3;
+
+  --rain-stain: rgba(120, 130, 110, 0.05);
+  --coffee-stain: rgba(140, 106, 79, 0.07);
+
+  --background: var(--paper-cream);
+  --foreground: var(--ink-main);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-paper-cream: var(--paper-cream);
+  --color-paper-cream-light: var(--paper-cream-light);
+  --color-paper-aged: var(--paper-aged);
+  --color-paper-line: var(--paper-line);
+
+  --color-ink-main: var(--ink-main);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+
+  --color-dakara-accent: var(--dakara-accent);
+  --color-dakara-accent-soft: var(--dakara-accent-soft);
+  --color-elma-accent: var(--elma-accent);
+  --color-elma-accent-soft: var(--elma-accent-soft);
+
+  --color-highlight-gold: var(--highlight-gold);
+  --color-highlight-gold-soft: var(--highlight-gold-soft);
+
+  --font-handwritten: 'Caveat', cursive;
+  --font-jp-serif: 'Shippori Mincho', serif;
+  --font-kr-serif: 'Noto Serif KR', serif;
+  --font-en-serif: 'Source Serif 4', serif;
+  --font-jp-hand: 'Klee One', 'Shippori Mincho', serif;
+  --font-kr-hand: 'Gowun Batang', 'Noto Serif KR', serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+body {
+  font-family: var(--font-jp-serif), var(--font-kr-serif), var(--font-en-serif), serif;
+}
+
+/* Notebook ruled-paper texture, used as a background layer behind content */
+.notebook-paper {
+  background-color: var(--paper-cream);
+  background-image:
+    repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 38px,
+      var(--paper-line) 38px,
+      var(--paper-line) 39px
+    );
+  background-position: 0 90px;
+}
+
+.notebook-paper-aged {
+  background-color: var(--paper-aged);
+  background-image:
+    repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 38px,
+      var(--paper-line) 38px,
+      var(--paper-line) 39px
+    ),
+    radial-gradient(ellipse 340px 220px at 8% 6%, var(--coffee-stain), transparent 75%),
+    radial-gradient(ellipse 300px 380px at 95% 75%, var(--rain-stain), transparent 75%);
+  background-position: 0 90px, 0 0, 0 0;
+}
+
+/* Decorative handwritten accent for short Latin/English text only (e.g.
+   "Track 0X.", the START button, nav wordmark subtitle). Caveat has no
+   CJK glyphs, so this must never be applied to Japanese or Korean text --
+   use .handwritten-jp / .handwritten-kr below instead. */
+.handwritten {
+  font-family: var(--font-handwritten), cursive;
+}
+
+/* Decorative handwritten-feeling accent for Japanese text (logo wordmark,
+   section toggles, signature quotes). Klee One is a soft, slightly
+   handwritten serif -- deliberately one consistent choice everywhere,
+   rather than relying on a per-browser CJK fallback. */
+.handwritten-jp {
+  font-family: var(--font-jp-hand);
+}
+
+/* Same role as .handwritten-jp, for Korean text. */
+.handwritten-kr {
+  font-family: var(--font-kr-hand);
+}
+
+/* Underline-on-hover used throughout for links/titles, drawn as if inked */
+.ink-underline {
+  position: relative;
+  text-decoration: none;
+}
+.ink-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s ease;
+}
+.ink-underline:hover::after,
+.ink-underline.is-active::after {
+  transform: scaleX(1);
+}
+
+/* Scrollbar kept quiet/thin so it doesn't fight the notebook aesthetic */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--paper-edge-shadow) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

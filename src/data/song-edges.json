@@ -1,0 +1,1966 @@
+[
+  {
+    "source": "parade",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 4,
+    "sharedWords": [
+      "わかる",
+      "君",
+      "忘れる",
+      "思い出"
+    ],
+    "weight": 11,
+    "featured": true
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 17,
+    "featured": true
+  },
+  {
+    "source": "amy",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "人生",
+      "僕",
+      "君"
+    ],
+    "weight": 13,
+    "featured": true
+  },
+  {
+    "source": "amy",
+    "target": "ai-nijou",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "人生",
+      "僕",
+      "君"
+    ],
+    "weight": 13,
+    "featured": true
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "ai-nijou",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "人生",
+      "僕",
+      "君"
+    ],
+    "weight": 13,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "心"
+    ],
+    "weight": 13,
+    "featured": true
+  },
+  {
+    "source": "amy",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 12,
+    "featured": true
+  },
+  {
+    "source": "amy",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 12,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 11,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "yoru-magai",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "わかる",
+      "人生",
+      "君"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "わかる",
+      "僕",
+      "君"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "aruku",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "知る"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "aruku",
+    "target": "odorou-ze",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "知る"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "ai-nijou",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "花"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "ame-to-cappuccino",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "わかる",
+      "僕",
+      "君"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "愛"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "gogatsu-hanarokushou",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 9,
+    "featured": true
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "夏"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "aruku",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "aruku",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "aruku",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "言葉"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "kamisama-no-dance",
+    "target": "odorou-ze",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "知る"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "わかる",
+      "僕",
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "ai-nijou",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "花"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "僕",
+      "君",
+      "花"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "君",
+      "心",
+      "言葉"
+    ],
+    "weight": 8,
+    "featured": true
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "ame-haruru",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "君",
+      "夏",
+      "言葉"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 3,
+    "sharedWords": [
+      "わかる",
+      "君",
+      "言葉"
+    ],
+    "weight": 7,
+    "featured": true
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 14,
+    "featured": true
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "ame-haruru",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 12,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 11,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "nautilus",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夜"
+    ],
+    "weight": 10,
+    "featured": true
+  },
+  {
+    "source": "nautilus",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "目"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 10,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "ai-nijou",
+    "target": "ame-haruru",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 9,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "yoru-magai",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "人生",
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "忘れる"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "見る"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "心"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "人生",
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "elma",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "parade",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "忘れる"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "koe",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "言葉"
+    ],
+    "weight": 7,
+    "featured": true
+  },
+  {
+    "source": "elma",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "顔"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "歌"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "yoru-magai",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "心"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "aruku",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "kamisama-no-dance",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "kamisama-no-dance",
+    "target": "ame-haruru",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "ai-nijou",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "shikaki-to-coffee",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "odorou-ze",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "odorou-ze",
+    "target": "ame-haruru",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "amy",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夏"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "nautilus",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夜"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夜"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "ame-haruru",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夏"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "夏"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "yoru-magai",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "心"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "心"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "kamisama-no-dance",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "parade",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "gogatsu-hanarokushou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "yoru-magai",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "ai-nijou",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "odorou-ze",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "僕",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "parade",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "yoru-magai",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "aruku",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "君",
+      "言葉"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 2,
+    "sharedWords": [
+      "わかる",
+      "言葉"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "shikaki-to-coffee",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 8,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "hachigatsu-nanika-tsukiakari",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "ai-nijou",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 7,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "nautilus",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 6,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "parade",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "yoru-magai",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "aruku",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "aruku",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "ai-nijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "yoru-magai",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "aruku",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "aruku",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "shikaki-to-coffee",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 5,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "koe",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "わかる"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "gogatsu-hanarokushou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "gogatsu-hanarokushou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "yoru-magai",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "ai-nijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "わかる"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "kamisama-no-dance",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 4,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "nautilus",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "rokugatsu-amaagari",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "dakara-boku-wa-ongaku-wo-yameta",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": true
+  },
+  {
+    "source": "amy",
+    "target": "elma",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "amy",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "gogatsu-hanarokushou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "yuunagi-nanika-hanamadoi",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "elma",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "nautilus",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "gogatsu-hanarokushou",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "kokoro-ni-ana-ga-aita",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "言葉"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "言葉"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuunagi-nanika-hanamadoi",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yoru-magai",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "kokoro-ni-ana-ga-aita",
+    "target": "yuu-ichijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "aruku",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "kamisama-no-dance",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "ai-nijou",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "shikaki-to-coffee",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "odorou-ze",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "ame-to-cappuccino",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "yuu-ichijou",
+    "target": "ame-haruru",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "君"
+    ],
+    "weight": 3,
+    "featured": false
+  },
+  {
+    "source": "parade",
+    "target": "koe",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "わかる"
+    ],
+    "weight": 2,
+    "featured": false
+  },
+  {
+    "source": "hachigatsu-nanika-tsukiakari",
+    "target": "koe",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "わかる"
+    ],
+    "weight": 2,
+    "featured": false
+  },
+  {
+    "source": "rokugatsu-amaagari",
+    "target": "koe",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "言葉"
+    ],
+    "weight": 2,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "yoru-magai",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "わかる"
+    ],
+    "weight": 2,
+    "featured": false
+  },
+  {
+    "source": "koe",
+    "target": "aruku",
+    "sharedWordCount": 1,
+    "sharedWords": [
+      "言葉"
+    ],
+    "weight": 2,
+    "featured": false
+  }
+]
