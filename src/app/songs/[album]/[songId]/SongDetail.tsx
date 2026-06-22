@@ -6,6 +6,7 @@ import Link from "next/link";
 import type { Song } from "@/types/song";
 import { getCorrespondingSong, getWordsForSong, getLyricsForSong, localize, formatNetworkWord } from "@/lib/data";
 import { useLanguage, t, handwrittenClass } from "@/lib/language-context";
+import { assetPath } from "@/lib/asset-path";
 
 interface SongDetailProps {
   song: Song;
@@ -73,7 +74,7 @@ export default function SongDetail({ song }: SongDetailProps) {
             >
               {song.mvThumbnail && (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={song.mvThumbnail} alt={song.title[lang]} className="h-full w-full object-cover" />
+                <img src={assetPath(song.mvThumbnail)} alt={song.title[lang]} className="h-full w-full object-cover" />
               )}
             </div>
             <div className="flex flex-wrap gap-4 text-sm">
@@ -166,7 +167,7 @@ export default function SongDetail({ song }: SongDetailProps) {
         )}
 
         <div className="mt-10">
-          <Link href="/connections" className="ink-underline text-sm text-ink-soft">
+          <Link href={`/connections?song=${song.id}`} className="ink-underline text-sm text-ink-soft">
             {t("viewOnMap", lang)} →
           </Link>
         </div>

@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const repo = "yorushika-dh";
 const isGithubActions = process.env.GITHUB_ACTIONS === "true";
+const basePath = isGithubActions ? `/${repo}` : "";
 
 const nextConfig: NextConfig = {
   allowedDevOrigins: ["127.0.0.1", "localhost"],
@@ -13,10 +14,14 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
 
-  ...(isGithubActions
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
+
+  ...(basePath
     ? {
-        basePath: `/${repo}`,
-        assetPrefix: `/${repo}/`,
+        basePath,
+        assetPrefix: `${basePath}/`,
       }
     : {}),
 };

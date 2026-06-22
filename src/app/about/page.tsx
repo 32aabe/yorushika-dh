@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import { useLanguage, handwrittenClass } from "@/lib/language-context";
+import { assetPath } from "@/lib/asset-path";
 
 type Lang = "jp" | "en" | "kr";
 type Section = "yorushika" | "project" | "methodology";
@@ -520,7 +521,7 @@ function ProcessGallery({ lang }: { lang: Lang }) {
                   className={getImageBoxClass(figure.images.length)}
                 >
                   <Image
-                    src={image.src}
+                    src={assetPath(image.src)}
                     alt={image.alt}
                     fill
                     sizes="(max-width: 640px) 90vw, (max-width: 1024px) 45vw, 30vw"

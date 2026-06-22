@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Song } from "@/types/song";
 import { useLanguage, t, handwrittenClass } from "@/lib/language-context";
 import { getCorrespondingSong, getWordsForSong, getLyricsForSong, localize, formatNetworkWord, localizeAlbum } from "@/lib/data";
+import { assetPath } from "@/lib/asset-path";
 
 interface NotebookPanelProps {
   song: Song | null;
@@ -74,7 +75,7 @@ export default function NotebookPanel({ song, onClose, onCompare }: NotebookPane
             {displayedSong.mvThumbnail && (
               // eslint-disable-next-line @next/next/no-img-element
               <img
-                src={displayedSong.mvThumbnail}
+                src={assetPath(displayedSong.mvThumbnail)}
                 alt={displayedSong.title[lang]}
                 className="h-full w-full object-cover"
               />

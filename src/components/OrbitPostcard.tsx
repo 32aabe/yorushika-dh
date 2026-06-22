@@ -2,6 +2,7 @@
 
 import type { Song } from "@/types/song";
 import { useLanguage } from "@/lib/language-context";
+import { assetPath } from "@/lib/asset-path";
 
 interface OrbitPostcardProps {
   song: Song;
@@ -23,7 +24,7 @@ export default function OrbitPostcard({ song, onClick }: OrbitPostcardProps) {
       <span className="block aspect-[4/3] w-full overflow-hidden border-[3px] border-paper-cream-light bg-paper-cream-light">
         {song.mvThumbnail ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={song.mvThumbnail} alt={song.title[lang]} className="h-full w-full object-cover" />
+          <img src={assetPath(song.mvThumbnail)} alt={song.title[lang]} className="h-full w-full object-cover" />
         ) : (
           <span
             className="flex h-full w-full items-center justify-center text-[10px] text-ink-faint"

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   getSongById,
   getCorrespondingSong,
@@ -48,6 +48,25 @@ export default function ConnectionsExplorer() {
   const [view, setView] = useState<ViewState>(INITIAL_STATE);
   const [deepDiveSongId, setDeepDiveSongId] = useState<string | null>(null);
   const [history, setHistory] = useState<ViewState[]>([]);
+
+    useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const songId = params.get("song");
+
+    if (!songId) return;
+
+    const song = getSongById(songId);
+    if (!song) return;
+
+    setView({
+      mode: "song",
+      songId: song.id,
+      word: CURATED_ENTRY_WORDS[0],
+      compareWith: null,
+    });
+    setDeepDiveSongId(null);
+    setHistory([]);
+  }, []);
 
   function pushView(next: ViewState) {
     setHistory((h) => [...h, view]);
